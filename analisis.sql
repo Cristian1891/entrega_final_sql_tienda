@@ -326,6 +326,8 @@ GROUP BY
     END
 ORDER BY cantidad_pedidos DESC;
 
+SELECT * FROM productos;
+
 -- Revision opcional del plan de ejecucion. Se deja comentada porque ANALYZE
 -- ejecuta la consulta y su salida depende del entorno y del volumen disponible.
 -- EXPLAIN (ANALYZE, BUFFERS)
