@@ -1258,4 +1258,4 @@ UNION ALL SELECT 'productos', COUNT(*) FROM productos
 UNION ALL SELECT 'pedidos', COUNT(*) FROM pedidos
 UNION ALL SELECT 'detalle_pedidos', COUNT(*) FROM detalle_pedidos;
 
-SELECT * FROM productos;
+SELECT * FROM clientes;
