@@ -56,6 +56,8 @@ erDiagram
     PRODUCTOS ||--o{ DETALLE_PEDIDOS : aparece_en
 ```
 
+![Diagrama ERD de la tienda](images/ERD_tienda.jpg)
+
 ## Limpieza y decisiones de calidad
 
 La limpieza se ejecuta antes de las consultas finales y deja evidencia reproducible:
